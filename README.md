@@ -1,2 +1,3 @@
 # Washing-Machine-and-Vending-Machine
-This is the code for Washing Machine and Vending Machine FSM in Verilog.
+Description
+This repository hosts FSMs Codes of Washing Machine and Vending Machine made and verified in Verilog.
